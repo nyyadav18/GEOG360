@@ -23,3 +23,7 @@
 ## Lab 6 - Racial Inequalities in Healthcare: Mapping Breast Cancer Mortality Rates by Race  
 **two thematic maps (How are breast cancer mortality rates distributed geographically and by race?)**  
 ***files:*** [lab 6 qgis file](lab6.qgs), [US Breast Cancer Mortality Rates for Black Women vs White Women](lab6map1.png), [Breast Cancer Mortality Rates Compared to Black Population Size](lab6map2.png)
+
+## Lab 7 - Analyzing Electoral Politics in King County  
+**two maps made after conducting spatial and attribute queries and using overlays and buffers: map 1 - screenshot of intersected layer of map - Voting Districts intersected with Seattle City Council Districts, map 2 - dot density map with 1 mile buffer on top (How well distributed are the King County ballot dropboxes?)**  
+***files:*** 
