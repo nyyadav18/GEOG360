@@ -25,5 +25,5 @@
 ***files:*** [lab 6 qgis file](lab6.qgs), [US Breast Cancer Mortality Rates for Black Women vs White Women](lab6map1.png), [Breast Cancer Mortality Rates Compared to Black Population Size](lab6map2.png)
 
 ## Lab 7 - Analyzing Electoral Politics in King County  
-**two maps made after conducting spatial and attribute queries and using overlays and buffers: map 1 - screenshot of intersected layer of map - Voting Districts intersected with Seattle City Council Districts, map 2 - dot density map with 1 mile buffer on top (How well distributed are the King County ballot dropboxes?)**  
+**two maps made after conducting spatial and attribute queries and using overlays and buffers: map 1 - concentric buffers showing parts of King County within a certain distance from ballot dropboxes, map 2 - screenshot of Voting Districts intersected with Seattle City Council Districts, map 3 - dot density map with 1 mile buffer on top (How well distributed are the King County ballot dropboxes?)**  
 ***files:*** 
