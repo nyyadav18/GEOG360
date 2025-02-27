@@ -18,6 +18,8 @@
 
 ## Lab 5 - Mapping Climate Change  
 **map with both raster and vector data layers (How is climate change distributed across the US?)**  
-***files:*** [lab 5 qgis file](lab5map.qgs), [Distribution of Climate Change Across the US Based on Historical and Projected Averages of Snow Residence Time](lab5map.png)
+***files:*** [lab 5 qgis file](lab5map.qgs), [Distribution of Climate Change Across the US Based on Historical and Projected Averages of Snow Residence Time](lab5map.png)  
 
-
+## Lab 6 - Racial Inequalities in Healthcare: Mapping Breast Cancer Mortality Rates by Race  
+**two thematic maps (How are breast cancer mortality rates distributed geographically and by race?)**  
+***files:*** 
