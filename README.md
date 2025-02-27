@@ -30,4 +30,4 @@
 
 ## Final Project - Gentrification in Seattle
 **two maps demonstrating the difference in the demographic composition of Seattle between 2010 and 2020 using census data (How much is Seattle housing valued at in 2020 and how does that compare to 2020 annual incomes? Does 2010 show a similar trend or was gentrification less of a problem a decade ago?)**  
-***files:*** 
+***files:*** [final map 1 qgis file](final.qgs), [final map 2 qgis file](finalmap2.qgs), [2010 Census Data map](finalmap1.png), [2020 Census Data Map](finalmap2.png), [Final Report](finalreportgeog.pdf)
