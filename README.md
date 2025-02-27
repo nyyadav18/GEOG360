@@ -27,3 +27,7 @@
 ## Lab 7 - Analyzing Electoral Politics in King County  
 **two maps made after conducting spatial and attribute queries and using overlays and buffers: map 1 - concentric buffers showing parts of King County within a certain distance from ballot dropboxes, map 2 - screenshot of Voting Districts intersected with Seattle City Council Districts, map 3 - dot density map with 1 mile buffer on top (How well distributed are the King County ballot dropboxes?)**   
 ***files:*** [lab 7 qgis file](lab7.qgs), [Buffer Zones Around King County Drop Boxes](lab7map1.png), [Map 2 Screenshot](lab7map2.png), [Elderly People Within Walking Distance of Washington Dropboxes](lab7map3.png)
+
+## Final Project - Gentrification in Seattle
+**two maps demonstrating the difference in the demographic composition of Seattle between 2010 and 2020 using census data (How much is Seattle housing valued at in 2020 and how does that compare to 2020 annual incomes? Does 2010 show a similar trend or was gentrification less of a problem a decade ago?)**  
+***files:*** 
