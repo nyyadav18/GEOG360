@@ -14,5 +14,10 @@
 
 ## Lab 4 - Mapping Global Emissions  
 **three maps with different map projections (Which countries have the largest carbon footprint? And how are carbon and other emissions distributed around the world?): map 1 - mixed symbols map of CO2 emissions - dot density and choropleth, map 2 - orthographic map of particulate matter concentrations, map 3 - mixed symbols map of cumulative CO2 emissions - proportional and choropleth**  
-***files:*** [lab 4 qgis file](lab4map.qgs), [CO2 Emissions Over Time VS in 2019](lab4map1.png), [Particulate Matter Concentrations Globally](lab4map2.png), [Cumulative CO2 Emissions By Region VS Country](lab4map3.png)
+***files:*** [lab 4 qgis file](lab4map.qgs), [CO2 Emissions Over Time VS in 2019](lab4map1.png), [Particulate Matter Concentrations Globally](lab4map2.png), [Cumulative CO2 Emissions By Region VS Country](lab4map3.png)  
+
+## Lab 5 - Mapping Climate Change  
+**map with both raster and vector data layers (How is climate change distributed across the US?)**  
+***files:*** 
+
 
