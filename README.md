@@ -22,4 +22,4 @@
 
 ## Lab 6 - Racial Inequalities in Healthcare: Mapping Breast Cancer Mortality Rates by Race  
 **two thematic maps (How are breast cancer mortality rates distributed geographically and by race?)**  
-***files:*** 
+***files:*** [lab 6 qgis file](lab6.qgs), [US Breast Cancer Mortality Rates for Black Women vs White Women](lab6map1.png), [Breast Cancer Mortality Rates Compared to Black Population Size](lab6map2.png)
